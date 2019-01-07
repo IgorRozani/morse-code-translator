@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1087" height="1476" version="1.0">
+<defs id="defs4">
+<rect ry="5.4" height="16.44" width="36.7" id="dhA" fill="#000"/>
+<rect ry="5.4" height="16.44" width="18.5" id="dtA" fill="#000"/>
+<rect ry="5.4" height="16.44" width="54.9" id="dhC" fill="#000"/>
+</defs>
+
+
+<text style="font-size: 20px; font-style: normal; font-weight: bold; font-stretch: normal; text-align: middle; line-height: 100%; text-anchor: middle; fill:#000); font-family: Arial;">
+<tspan x="43" y="123">A</tspan>
+<tspan x="43" y="155.4">&#196;</tspan>
+<tspan x="43" y="187.8">B</tspan>
+<tspan x="43" y="220.2">C</tspan>
+<tspan x="43" y="252.6">CH</tspan>
+<tspan x="43" y="285">D</tspan>
+<tspan x="43" y="317.4">E</tspan>
+<tspan x="43" y="349.8">F</tspan>
+<tspan x="43" y="382.2">G</tspan>
+<tspan x="43" y="414.6">H</tspan>
+<tspan x="43" y="447">I</tspan>
+<tspan x="43" y="479.4">J</tspan>
+<tspan x="43" y="511.8">K</tspan>
+<tspan x="43" y="544.2">L</tspan>
+<tspan x="43" y="576.6">M</tspan>
+<tspan x="43" y="609">N</tspan>
+<tspan x="43" y="641.4">O</tspan>
+<tspan x="43" y="672.8">&#214;</tspan>
+<tspan x="43" y="705.2">P</tspan>
+<tspan x="43" y="737.4">Q</tspan>
+<tspan x="43" y="769.8">R</tspan>
+<tspan x="43" y="802.2">S</tspan>
+<tspan x="43" y="834.6">T</tspan>
+<tspan x="43" y="867">U</tspan>
+<tspan x="43" y="899.4">&#220;</tspan>
+<tspan x="43" y="931.8">V</tspan>
+<tspan x="43" y="964.2">W</tspan>
+<tspan x="43" y="996.6">X</tspan>
+<tspan x="43" y="1029">Y</tspan>
+<tspan x="43" y="1061.4">Z</tspan>
+<tspan x="43" y="1133">1</tspan>
+<tspan x="43" y="1165.4">2</tspan>
+<tspan x="43" y="1197.8">3</tspan>
+<tspan x="43" y="1230.2">4</tspan>
+<tspan x="43" y="1262.6">5</tspan>
+<tspan x="43" y="1295">6</tspan>
+<tspan x="43" y="1327.4">7</tspan>
+<tspan x="43" y="1359.8">8</tspan>
+<tspan x="43" y="1392.2">9</tspan>
+<tspan x="43" y="1424.6">0</tspan>
+<tspan x="43" y="1457">0 (alt)</tspan>
+</text>
+
+<text style="font-size: 32px; font-style: normal; font-variant: normal; font-weight: bold; font-stretch: normal; text-align: center; text-anchor: middle; fill:#000; font-family: Arial;">
+<tspan x="160" y="32">American</tspan>
+<tspan x="160" y="64">(Morse)</tspan>
+<tspan x="480" y="32">Continental</tspan>
+<tspan x="480" y="64">(Gerke)</tspan>
+<tspan x="810" y="32">International</tspan>
+<tspan x="810" y="64">(ITU)</tspan>
+</text>
+<!-- American -->
+<!-- A -->
+<use xlink:href="#dtA" x="86.57" y="107.2"/>
+<use xlink:href="#dhA" x="123.57" y="107.2"/>
+<!-- B -->
+<use xlink:href="#dhA" x="86.57" y="172.2"/>
+<use xlink:href="#dtA" x="142.05" y="172.2"/>
+<use xlink:href="#dtA" x="179.05" y="172.2"/>
+<use xlink:href="#dtA" x="216.05" y="172.2"/>
+<!-- C -->
+<use xlink:href="#dtA" x="86.57" y="204.6"/>
+<use xlink:href="#dtA" x="123.57" y="204.6"/>
+<use xlink:href="#dtA" x="179" y="204.6"/>
+<!-- D -->
+<use xlink:href="#dhA" x="86.57" y="269.5"/>
+<use xlink:href="#dtA" x="142.1" y="269.5"/>
+<use xlink:href="#dtA" x="179.1" y="269.5"/>
+<!-- E -->
+<use xlink:href="#dtA" x="86.57" y="302"/>
+<!-- F -->
+<use xlink:href="#dtA" x="86.57" y="334.5"/>
+<use xlink:href="#dhA" x="123.57" y="334.5"/>
+<use xlink:href="#dtA" x="179" y="334.5"/>
+<!-- G -->
+<use xlink:href="#dhA" x="86.57" y="366.8"/>
+<use xlink:href="#dhA" x="142.05" y="366.8"/>
+<use xlink:href="#dtA" x="197.6" y="366.8"/>
+<!-- H -->
+<use xlink:href="#dtA" x="86.57" y="399.2"/>
+<use xlink:href="#dtA" x="123.57" y="399.2"/>
+<use xlink:href="#dtA" x="160.57" y="399.2"/>
+<use xlink:href="#dtA" x="197.57" y="399.2"/>
+<!-- I -->
+<use xlink:href="#dtA" x="86.57" y="431.8"/>
+<use xlink:href="#dtA" x="123.57" y="431.8"/>
+<!-- J -->
+<use xlink:href="#dhA" x="86.57" y="464.1"/>
+<use xlink:href="#dtA" x="142.1" y="464.1"/>
+<use xlink:href="#dhA" x="179.1" y="464.1"/>
+<use xlink:href="#dtA" x="234.6" y="464.1"/>
+<!-- K -->
+<use xlink:href="#dhA" x="86.57" y="496.6"/>
+<use xlink:href="#dtA" x="142.1" y="496.6"/>
+<use xlink:href="#dhA" x="179.1" y="496.6"/>
+<!-- use xlink:href="#dtA" x="235.1" y="496.6"/ -->
+<rect ry="5.4" x="86.57" y="529" height="16.44" width="74.2"/>
+<!-- M -->
+<use xlink:href="#dhA" x="86.57" y="561.5"/>
+<use xlink:href="#dhA" x="142.1" y="561.5"/>
+<!-- N -->
+<use xlink:href="#dhA" x="86.57" y="594"/>
+<use xlink:href="#dtA" x="142.1" y="594"/>
+<!-- O -->
+<use xlink:href="#dtA" x="86.57" y="626.4"/>
+<use xlink:href="#dtA" x="142.1" y="626.4"/>
+<!-- P -->
+<use xlink:href="#dtA" x="86.57" y="691.3"/>
+<use xlink:href="#dtA" x="123.57" y="691.3"/>
+<use xlink:href="#dtA" x="160.57" y="691.3"/>
+<use xlink:href="#dtA" x="197.57" y="691.3"/>
+<use xlink:href="#dtA" x="234.57" y="691.3"/>
+<!-- Q -->
+<use xlink:href="#dtA" x="86.57" y="723.7"/>
+<use xlink:href="#dtA" x="123.57" y="723.7"/>
+<use xlink:href="#dhA" x="160.57" y="723.7"/>
+<use xlink:href="#dtA" x="216.1" y="723.7"/>
+<!-- R -->
+<use xlink:href="#dtA" x="86.57" y="756.2"/>
+<use xlink:href="#dtA" x="142.1" y="756.2"/>
+<use xlink:href="#dtA" x="179.1" y="756.2"/>
+<!-- S -->
+<use xlink:href="#dtA" x="86.57" y="788.6"/>
+<use xlink:href="#dtA" x="123.57" y="788.6"/>
+<use xlink:href="#dtA" x="160.57" y="788.6"/>
+<!-- T -->
+<use xlink:href="#dhA" x="86.57" y="821"/>
+<!-- U -->
+<use xlink:href="#dtA" x="86.57" y="853.5"/>
+<use xlink:href="#dtA" x="123.57" y="853.5"/>
+<use xlink:href="#dhA" x="160.57" y="853.5"/>
+<!-- V -->
+<use xlink:href="#dtA" x="86.57" y="918.5"/>
+<use xlink:href="#dtA" x="123.57" y="918.5"/>
+<use xlink:href="#dtA" x="160.57" y="918.5"/>
+<use xlink:href="#dhA" x="197.57" y="918.5"/>
+<!-- W -->
+<use xlink:href="#dtA" x="86.57" y="950.9"/>
+<use xlink:href="#dhA" x="123.57" y="950.9"/>
+<use xlink:href="#dhA" x="179" y="950.9"/>
+<!-- X -->
+<use xlink:href="#dtA" x="86.57" y="983.3"/>
+<use xlink:href="#dhA" x="123.57" y="983.3"/>
+<use xlink:href="#dtA" x="179" y="983.3"/>
+<use xlink:href="#dtA" x="216.1" y="983.3"/>
+<!-- Y -->
+<use xlink:href="#dtA" x="86.57" y="1015.7"/>
+<use xlink:href="#dtA" x="123.57" y="1015.7"/>
+<use xlink:href="#dtA" x="179" y="1015.7"/>
+<use xlink:href="#dtA" x="216.1" y="1015.7"/>
+<!-- Z -->
+<use xlink:href="#dtA" x="86.57" y="1048.2"/>
+<use xlink:href="#dtA" x="123.57" y="1048.2"/>
+<use xlink:href="#dtA" x="160.57" y="1048.2"/>
+<use xlink:href="#dtA" x="216.1" y="1048.2"/>
+<!-- 1 -->
+<use xlink:href="#dtA" x="86.57" y="1119.8"/>
+<use xlink:href="#dhA" x="123.57" y="1119.8"/>
+<use xlink:href="#dhA" x="179.1" y="1119.8"/>
+<use xlink:href="#dtA" x="234.6" y="1119.8"/>
+<!-- 2 -->
+<use xlink:href="#dtA" x="86.57" y="1152.25"/>
+<use xlink:href="#dtA" x="123.57" y="1152.25"/>
+<use xlink:href="#dhA" x="160.57" y="1152.25"/>
+<use xlink:href="#dtA" x="216" y="1152.25"/>
+<use xlink:href="#dtA" x="253" y="1152.25"/>
+<!-- 3 -->
+<use xlink:href="#dtA" x="86.57" y="1184.6"/>
+<use xlink:href="#dtA" x="123.57" y="1184.6"/>
+<use xlink:href="#dtA" x="160.57" y="1184.6"/>
+<use xlink:href="#dhA" x="197.57" y="1184.6"/>
+<use xlink:href="#dtA" x="253" y="1184.6"/>
+<!-- 4 -->
+<use xlink:href="#dtA" x="86.57" y="1217"/>
+<use xlink:href="#dtA" x="123.57" y="1217"/>
+<use xlink:href="#dtA" x="160.57" y="1217"/>
+<use xlink:href="#dtA" x="197.57" y="1217"/>
+<use xlink:href="#dhA" x="234.57" y="1217"/>
+<!-- 5 -->
+<use xlink:href="#dhA" x="86.57" y="1249.4"/>
+<use xlink:href="#dhA" x="142.05" y="1249.4"/>
+<use xlink:href="#dhA" x="197.6" y="1249.4"/>
+<!-- 6 -->
+<use xlink:href="#dtA" x="86.57" y="1281.8"/>
+<use xlink:href="#dtA" x="123.57" y="1281.8"/>
+<use xlink:href="#dtA" x="160.57" y="1281.8"/>
+<use xlink:href="#dtA" x="197.57" y="1281.8"/>
+<use xlink:href="#dtA" x="234.57" y="1281.8"/>
+<use xlink:href="#dtA" x="271.57" y="1281.8"/>
+<!-- 7 -->
+<use xlink:href="#dhA" x="86.57" y="1314.2"/>
+<use xlink:href="#dhA" x="142.05" y="1314.2"/>
+<use xlink:href="#dtA" x="197.55" y="1314.2"/>
+<use xlink:href="#dtA" x="234.55" y="1314.2"/>
+<!-- 8 -->
+<use xlink:href="#dhA" x="86.57" y="1346.6"/>
+<use xlink:href="#dtA" x="142.05" y="1346.6"/>
+<use xlink:href="#dtA" x="179.05" y="1346.6"/>
+<use xlink:href="#dtA" x="216.05" y="1346.6"/>
+<use xlink:href="#dtA" x="253.05" y="1346.6"/>
+<!-- 9 -->
+<use xlink:href="#dhA" x="86.57" y="1379"/>
+<use xlink:href="#dtA" x="142.05" y="1379"/>
+<use xlink:href="#dtA" x="179.05" y="1379"/>
+<use xlink:href="#dhA" x="216.05" y="1379"/>
+<rect ry="5.4" x="86.57" y="1411.4" height="16.44" width="201.5"/>
+<use xlink:href="#dhA" x="86.57" y="1443.78"/>
+<!-- Continental -->
+<!-- A -->
+<use xlink:href="#dtA" x="379.8" y="107.2"/>
+<use xlink:href="#dhC" x="416.8" y="107.2"/>
+<!-- A umlaut -->
+<use xlink:href="#dtA" x="379.8" y="139.8"/>
+<use xlink:href="#dhC" x="416.8" y="139.8"/>
+<use xlink:href="#dtA" x="490.2" y="139.8"/>
+<use xlink:href="#dhC" x="526.6" y="139.8"/>
+<!-- B -->
+<use xlink:href="#dhC" x="379.8" y="172.2"/>
+<use xlink:href="#dtA" x="453.2" y="172.2"/>
+<use xlink:href="#dtA" x="490.2" y="172.2"/>
+<use xlink:href="#dtA" x="527.3" y="172.2"/>
+<!-- C -->
+<use xlink:href="#dhC" x="379.8" y="204.6"/>
+<use xlink:href="#dtA" x="453.2" y="204.6"/>
+<use xlink:href="#dhC" x="490.2" y="204.6"/>
+<use xlink:href="#dtA" x="564.2" y="204.6"/>
+<!-- CH -->
+<use xlink:href="#dhC" x="379.8" y="237"/>
+<use xlink:href="#dhC" x="453.2" y="237"/>
+<use xlink:href="#dhC" x="526.6" y="237"/>
+<use xlink:href="#dhC" x="600.1" y="237"/>
+<!-- D -->
+<use xlink:href="#dhC" x="379.8" y="269.5"/>
+<use xlink:href="#dtA" x="453.2" y="269.5"/>
+<use xlink:href="#dtA" x="490.2" y="269.5"/>
+<!-- E -->
+<use xlink:href="#dtA" x="379.8" y="302"/>
+<!-- F -->
+<use xlink:href="#dtA" x="379.8" y="334.5"/>
+<use xlink:href="#dtA" x="416.8" y="334.5"/>
+<use xlink:href="#dhC" x="453.8" y="334.5"/>
+<use xlink:href="#dtA" x="527.8" y="334.5"/>
+<!-- G -->
+<use xlink:href="#dhC" x="379.8" y="366.8"/>
+<use xlink:href="#dhC" x="453.2" y="366.8"/>
+<use xlink:href="#dtA" x="526.6" y="366.8"/>
+<!-- H -->
+<use xlink:href="#dtA" x="379.8" y="399.2"/>
+<use xlink:href="#dtA" x="416.8" y="399.2"/>
+<use xlink:href="#dtA" x="453.8" y="399.2"/>
+<use xlink:href="#dtA" x="490.8" y="399.2"/>
+<!-- I -->
+<use xlink:href="#dtA" x="379.8" y="431.8"/>
+<use xlink:href="#dtA" x="416.8" y="431.8"/>
+<!-- J -->
+<use xlink:href="#dtA" x="379.8" y="464.1"/>
+<use xlink:href="#dhC" x="416.8" y="464.1"/>
+<use xlink:href="#dhC" x="490.2" y="464.1"/>
+<use xlink:href="#dhC" x="563.6" y="464.1"/>
+<!-- K -->
+<use xlink:href="#dhC" x="379.8" y="496.6"/>
+<use xlink:href="#dtA" x="453.2" y="496.6"/>
+<use xlink:href="#dhC" x="490.2" y="496.6"/>
+<!-- L -->
+<use xlink:href="#dtA" x="379.8" y="529"/>
+<use xlink:href="#dhC" x="416.8" y="529"/>
+<use xlink:href="#dtA" x="490.2" y="529"/>
+<use xlink:href="#dtA" x="527.2" y="529"/>
+<!-- M -->
+<use xlink:href="#dhC" x="379.8" y="561.5"/>
+<use xlink:href="#dhC" x="453.2" y="561.5"/>
+<!-- N -->
+<use xlink:href="#dhC" x="379.8" y="594"/>
+<use xlink:href="#dtA" x="453.2" y="594"/>
+<!-- O -->
+<use xlink:href="#dtA" x="379.8" y="626.4"/>
+<use xlink:href="#dhC" x="416.8" y="626.4"/>
+<use xlink:href="#dtA" x="490.2" y="626.4"/>
+<use xlink:href="#dtA" x="527.2" y="626.4"/>
+<use xlink:href="#dtA" x="564.2" y="626.4"/>
+<!-- O umlaut -->
+<use xlink:href="#dhC" x="379.8" y="658.8"/>
+<use xlink:href="#dhC" x="453.2" y="658.8"/>
+<use xlink:href="#dhC" x="526.6" y="658.8"/>
+<use xlink:href="#dtA" x="600.1" y="658.8"/>
+<!-- P -->
+<use xlink:href="#dtA" x="379.8" y="691.3"/>
+<use xlink:href="#dtA" x="416.8" y="691.3"/>
+<use xlink:href="#dtA" x="453.8" y="691.3"/>
+<use xlink:href="#dtA" x="490.8" y="691.3"/>
+<use xlink:href="#dtA" x="527.8" y="691.3"/>
+<!-- Q -->
+<use xlink:href="#dhC" x="379.8" y="723.7"/>
+<use xlink:href="#dhC" x="453.2" y="723.7"/>
+<use xlink:href="#dtA" x="526.6" y="723.7"/>
+<use xlink:href="#dhC" x="563.6" y="723.7"/>
+<!-- R -->
+<use xlink:href="#dtA" x="379.8" y="756.2"/>
+<use xlink:href="#dhC" x="416.8" y="756.2"/>
+<use xlink:href="#dtA" x="490.2" y="756.2"/>
+<!-- S -->
+<use xlink:href="#dtA" x="379.8" y="788.6"/>
+<use xlink:href="#dtA" x="416.8" y="788.6"/>
+<use xlink:href="#dtA" x="453.8" y="788.6"/>
+<!-- T -->
+<use xlink:href="#dhC" x="379.8" y="821"/>
+<!-- U -->
+<use xlink:href="#dtA" x="379.8" y="853.5"/>
+<use xlink:href="#dtA" x="416.8" y="853.5"/>
+<use xlink:href="#dhC" x="453.8" y="853.5"/>
+<!-- U umalut -->
+<use xlink:href="#dtA" x="379.8" y="886"/>
+<use xlink:href="#dtA" x="416.8" y="886"/>
+<use xlink:href="#dhC" x="453.8" y="886"/>
+<use xlink:href="#dhC" x="527.2" y="886"/>
+<!-- V -->
+<use xlink:href="#dtA" x="379.8" y="918.5"/>
+<use xlink:href="#dtA" x="416.8" y="918.5"/>
+<use xlink:href="#dtA" x="453.8" y="918.5"/>
+<use xlink:href="#dhC" x="490.8" y="918.5"/>
+<!-- W -->
+<use xlink:href="#dtA" x="379.8" y="950.9"/>
+<use xlink:href="#dhC" x="416.8" y="950.9"/>
+<use xlink:href="#dhC" x="490.8" y="950.9"/>
+<!-- X -->
+<use xlink:href="#dtA" x="379.8" y="983.3"/>
+<use xlink:href="#dtA" x="416.8" y="983.3"/>
+<use xlink:href="#dhC" x="453.2" y="983.3"/>
+<use xlink:href="#dtA" x="526.6" y="983.3"/>
+<use xlink:href="#dtA" x="563.6" y="983.3"/>
+<use xlink:href="#dtA" x="600.7" y="983.3"/>
+<!-- Y -->
+<use xlink:href="#dhC" x="379.8" y="1015.7"/>
+<use xlink:href="#dhC" x="453.2" y="1015.7"/>
+<use xlink:href="#dtA" x="526.6" y="1015.7"/>
+<use xlink:href="#dtA" x="563.6" y="1015.7"/>
+<use xlink:href="#dtA" x="600.7" y="1015.7"/>
+<!-- Z -->
+<use xlink:href="#dtA" x="379.8" y="1048.2"/>
+<use xlink:href="#dhC" x="416.8" y="1048.2"/>
+<use xlink:href="#dhC" x="490.2" y="1048.2"/>
+<use xlink:href="#dtA" x="563.7" y="1048.2"/>
+<use xlink:href="#dtA" x="600.7" y="1048.2"/>
+<!-- 1 -->
+<use xlink:href="#dtA" x="379.8" y="1119.8"/>
+<use xlink:href="#dhC" x="416.8" y="1119.8"/>
+<use xlink:href="#dhC" x="490.8" y="1119.8"/>
+<use xlink:href="#dtA" x="564.8" y="1119.8"/>
+<!-- 2 -->
+<use xlink:href="#dtA" x="379.8" y="1152.25"/>
+<use xlink:href="#dtA" x="416.8" y="1152.25"/>
+<use xlink:href="#dhC" x="453.8" y="1152.25"/>
+<use xlink:href="#dtA" x="527.8" y="1152.25"/>
+<use xlink:href="#dtA" x="564.8" y="1152.25"/>
+<!-- 3 -->
+<use xlink:href="#dtA" x="379.8" y="1184.6"/>
+<use xlink:href="#dtA" x="416.8" y="1184.6"/>
+<use xlink:href="#dtA" x="453.8" y="1184.6"/>
+<use xlink:href="#dhC" x="490.8" y="1184.6"/>
+<use xlink:href="#dtA" x="564.8" y="1184.6"/>
+<!-- 4 -->
+<use xlink:href="#dtA" x="379.8" y="1217"/>
+<use xlink:href="#dtA" x="416.8" y="1217"/>
+<use xlink:href="#dtA" x="453.8" y="1217"/>
+<use xlink:href="#dtA" x="490.8" y="1217"/>
+<use xlink:href="#dhC" x="527.8" y="1217"/>
+<!-- 5 -->
+<use xlink:href="#dhC" x="379.8" y="1249.4"/>
+<use xlink:href="#dhC" x="453.2" y="1249.4"/>
+<use xlink:href="#dhC" x="526.6" y="1249.4"/>
+<!-- 6 -->
+<use xlink:href="#dtA" x="379.8" y="1281.8"/>
+<use xlink:href="#dtA" x="416.8" y="1281.8"/>
+<use xlink:href="#dtA" x="453.8" y="1281.8"/>
+<use xlink:href="#dtA" x="490.8" y="1281.8"/>
+<use xlink:href="#dtA" x="527.8" y="1281.8"/>
+<use xlink:href="#dtA" x="564.8" y="1281.8"/>
+<!-- 7 -->
+<use xlink:href="#dhC" x="379.8" y="1314.1"/>
+<use xlink:href="#dhC" x="453.2" y="1314.1"/>
+<use xlink:href="#dtA" x="527.3" y="1314.1"/>
+<use xlink:href="#dtA" x="563.6" y="1314.1"/>
+<!-- 8 -->
+<use xlink:href="#dhC" x="379.8" y="1346.6"/>
+<use xlink:href="#dtA" x="453.2" y="1346.6"/>
+<use xlink:href="#dtA" x="490.2" y="1346.6"/>
+<use xlink:href="#dtA" x="527.3" y="1346.6"/>
+<use xlink:href="#dtA" x="563.6" y="1346.6"/>
+<!-- 9 -->
+<use xlink:href="#dhC" x="379.8" y="1379"/>
+<use xlink:href="#dtA" x="453.2" y="1379"/>
+<use xlink:href="#dtA" x="490.2" y="1379"/>
+<use xlink:href="#dhC" x="527.3" y="1379"/>
+<rect ry="5.4" x="379.8" y="1411.4" height="16.44" width="201.5"/>
+<!-- ITU -->
+<!-- A -->
+<use xlink:href="#dtA" x="709.4" y="107.2"/>
+<use xlink:href="#dhC" x="746.4" y="107.2"/>
+<!-- B -->
+<use xlink:href="#dhC" x="709.4" y="172.2"/>
+<use xlink:href="#dtA" x="782.8" y="172.2"/>
+<use xlink:href="#dtA" x="819.9" y="172.2"/>
+<use xlink:href="#dtA" x="856.9" y="172.2"/>
+<!-- C -->
+<use xlink:href="#dhC" x="709.4" y="204.6"/>
+<use xlink:href="#dtA" x="782.8" y="204.6"/>
+<use xlink:href="#dhC" x="819.9" y="204.6"/>
+<use xlink:href="#dtA" x="893.3" y="204.6"/>
+<!-- D -->
+<use xlink:href="#dhC" x="709.4" y="269.5"/>
+<use xlink:href="#dtA" x="782.8" y="269.5"/>
+<use xlink:href="#dtA" x="819.9" y="269.5"/>
+<!-- E -->
+<use xlink:href="#dtA" x="709.4" y="302"/>
+<!-- F -->
+<use xlink:href="#dtA" x="709.4" y="334.5"/>
+<use xlink:href="#dtA" x="746.8" y="334.5"/>
+<use xlink:href="#dhC" x="783.5" y="334.5"/>
+<use xlink:href="#dtA" x="857" y="334.5"/>
+<!-- G -->
+<use xlink:href="#dhC" x="709.4" y="366.8"/>
+<use xlink:href="#dhC" x="783.5" y="366.8"/>
+<use xlink:href="#dtA" x="857" y="366.8"/>
+<!-- H -->
+<use xlink:href="#dtA" x="709.4" y="399.2"/>
+<use xlink:href="#dtA" x="746.4" y="399.2"/>
+<use xlink:href="#dtA" x="783.4" y="399.2"/>
+<use xlink:href="#dtA" x="820.4" y="399.2"/>
+<!-- I -->
+<use xlink:href="#dtA" x="709.4" y="431.8"/>
+<use xlink:href="#dtA" x="746.4" y="431.8"/>
+<!-- J -->
+<use xlink:href="#dtA" x="709.4" y="464.1"/>
+<use xlink:href="#dhC" x="746.4" y="464.1"/>
+<use xlink:href="#dhC" x="819.8" y="464.1"/>
+<use xlink:href="#dhC" x="893.3" y="464.1"/>
+<!-- K -->
+<use xlink:href="#dhC" x="709.4" y="496.6"/>
+<use xlink:href="#dtA" x="782.8" y="496.6"/>
+<use xlink:href="#dhC" x="819.9" y="496.6"/>
+<!-- L -->
+<use xlink:href="#dtA" x="709.4" y="529"/>
+<use xlink:href="#dhC" x="746.4" y="529"/>
+<use xlink:href="#dtA" x="819.8" y="529"/>
+<use xlink:href="#dtA" x="856.8" y="529"/>
+<!-- M -->
+<use xlink:href="#dhC" x="709.4" y="561.5"/>
+<use xlink:href="#dhC" x="783.5" y="561.5"/>
+<!-- N -->
+<use xlink:href="#dhC" x="709.4" y="594"/>
+<use xlink:href="#dtA" x="783.5" y="594"/>
+<!-- O -->
+<use xlink:href="#dhC" x="709.4" y="626.4"/>
+<use xlink:href="#dhC" x="783.5" y="626.4"/>
+<use xlink:href="#dhC" x="857" y="626.4"/>
+<!-- P -->
+<use xlink:href="#dtA" x="709.4" y="691.3"/>
+<use xlink:href="#dhC" x="746.4" y="691.3"/>
+<use xlink:href="#dhC" x="819.8" y="691.3"/>
+<use xlink:href="#dtA" x="893.3" y="691.3"/>
+<!-- Q -->
+<use xlink:href="#dhC" x="709.4" y="723.7"/>
+<use xlink:href="#dhC" x="783.5" y="723.7"/>
+<use xlink:href="#dtA" x="857" y="723.7"/>
+<use xlink:href="#dhC" x="894" y="723.7"/>
+<!-- R -->
+<use xlink:href="#dtA" x="709.4" y="756.2"/>
+<use xlink:href="#dhC" x="746.4" y="756.2"/>
+<use xlink:href="#dtA" x="819.8" y="756.2"/>
+<!-- S -->
+<use xlink:href="#dtA" x="709.4" y="788.6"/>
+<use xlink:href="#dtA" x="746.4" y="788.6"/>
+<use xlink:href="#dtA" x="783.4" y="788.6"/>
+<!-- T -->
+<use xlink:href="#dhC" x="709.4" y="821"/>
+<!-- U -->
+<use xlink:href="#dtA" x="709.4" y="853.5"/>
+<use xlink:href="#dtA" x="746.8" y="853.5"/>
+<use xlink:href="#dhC" x="783.5" y="853.5"/>
+<!-- V -->
+<use xlink:href="#dtA" x="709.4" y="918.5"/>
+<use xlink:href="#dtA" x="746.4" y="918.5"/>
+<use xlink:href="#dtA" x="783.4" y="918.5"/>
+<use xlink:href="#dhC" x="820.4" y="918.5"/>
+<!-- W -->
+<use xlink:href="#dtA" x="709.4" y="950.9"/>
+<use xlink:href="#dhC" x="746.4" y="950.9"/>
+<use xlink:href="#dhC" x="819.8" y="950.9"/>
+<!-- X -->
+<use xlink:href="#dhC" x="709.4" y="983.3"/>
+<use xlink:href="#dtA" x="782.8" y="983.3"/>
+<use xlink:href="#dtA" x="819.9" y="983.3"/>
+<use xlink:href="#dhC" x="856.9" y="983.3"/>
+<!-- Y -->
+<use xlink:href="#dhC" x="709.4" y="1015.7"/>
+<use xlink:href="#dtA" x="782.8" y="1015.7"/>
+<use xlink:href="#dhC" x="819.9" y="1015.7"/>
+<use xlink:href="#dhC" x="893.3" y="1015.7"/>
+<!-- Z -->
+<use xlink:href="#dhC" x="709.4" y="1048.2"/>
+<use xlink:href="#dhC" x="783.5" y="1048.2"/>
+<use xlink:href="#dtA" x="857" y="1048.2"/>
+<use xlink:href="#dtA" x="894" y="1048.2"/>
+<!-- 1 -->
+<use xlink:href="#dtA" x="709.4" y="1119.8"/>
+<use xlink:href="#dhC" x="746.4" y="1119.8"/>
+<use xlink:href="#dhC" x="819.8" y="1119.8"/>
+<use xlink:href="#dhC" x="893.2" y="1119.8"/>
+<use xlink:href="#dhC" x="966.6" y="1119.8"/>
+<!-- 2 -->
+<use xlink:href="#dtA" x="709.4" y="1152.25"/>
+<use xlink:href="#dtA" x="746.8" y="1152.25"/>
+<use xlink:href="#dhC" x="783.5" y="1152.25"/>
+<use xlink:href="#dhC" x="857" y="1152.25"/>
+<use xlink:href="#dhC" x="930.5" y="1152.25"/>
+<!-- 3 -->
+<use xlink:href="#dtA" x="709.4" y="1184.6"/>
+<use xlink:href="#dtA" x="746.8" y="1184.6"/>
+<use xlink:href="#dtA" x="783.5" y="1184.6"/>
+<use xlink:href="#dhC" x="820.4" y="1184.6"/>
+<use xlink:href="#dhC" x="893.9" y="1184.6"/>
+<!-- 4 -->
+<use xlink:href="#dtA" x="709.4" y="1217"/>
+<use xlink:href="#dtA" x="746.8" y="1217"/>
+<use xlink:href="#dtA" x="783.5" y="1217"/>
+<use xlink:href="#dtA" x="820.4" y="1217"/>
+<use xlink:href="#dhC" x="857.4" y="1217"/>
+<!-- 5 -->
+<use xlink:href="#dtA" x="709.4" y="1249.4"/>
+<use xlink:href="#dtA" x="746.8" y="1249.4"/>
+<use xlink:href="#dtA" x="783.5" y="1249.4"/>
+<use xlink:href="#dtA" x="820.4" y="1249.4"/>
+<use xlink:href="#dtA" x="857.4" y="1249.4"/>
+<!-- 6 -->
+<use xlink:href="#dhC" x="709.4" y="1281.8"/>
+<use xlink:href="#dtA" x="783.5" y="1281.8"/>
+<use xlink:href="#dtA" x="820" y="1281.8"/>
+<use xlink:href="#dtA" x="857" y="1281.8"/>
+<use xlink:href="#dtA" x="894" y="1281.8"/>
+<!-- 7 -->
+<use xlink:href="#dhC" x="709.4" y="1314.1"/>
+<use xlink:href="#dhC" x="783.5" y="1314.1"/>
+<use xlink:href="#dtA" x="857" y="1314.1"/>
+<use xlink:href="#dtA" x="894" y="1314.1"/>
+<use xlink:href="#dtA" x="931" y="1314.1"/>
+<!-- 8 -->
+<use xlink:href="#dhC" x="709.4" y="1346.6"/>
+<use xlink:href="#dhC" x="783.5" y="1346.6"/>
+<use xlink:href="#dhC" x="857" y="1346.6"/>
+<use xlink:href="#dtA" x="931" y="1346.6"/>
+<use xlink:href="#dtA" x="968" y="1346.6"/>
+<!-- 9 -->
+<use xlink:href="#dhC" x="709.4" y="1379"/>
+<use xlink:href="#dhC" x="783.5" y="1379"/>
+<use xlink:href="#dhC" x="857" y="1379"/>
+<use xlink:href="#dhC" x="931" y="1379"/>
+<use xlink:href="#dtA" x="1005" y="1379"/>
+<!-- 0 -->
+<use xlink:href="#dhC" x="709.4" y="1411.4"/>
+<use xlink:href="#dhC" x="783.5" y="1411.4"/>
+<use xlink:href="#dhC" x="857" y="1411.4"/>
+<use xlink:href="#dhC" x="931" y="1411.4"/>
+<use xlink:href="#dhC" x="1005" y="1411.4"/>
+<use xlink:href="#dhC" x="709.4" y="1443.78"/>
+</svg>
