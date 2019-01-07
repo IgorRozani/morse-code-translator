@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: kongtext;
+  src: url(assets/font/kongtext.ttf) format("opentype");
+}
+
+* {
+  font-family: 'kongtext', 'arial', sans-serif;
+}
+
+body{
+    padding: 10px;
+}

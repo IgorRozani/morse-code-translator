@@ -1,0 +1,20 @@
+<form [formGroup]="form">
+  <div class="containers">
+    <div class="nes-container with-title">
+      <p class="title">Message</p>
+      <textarea class="nes-textarea" name="txtMessage" id="txtMessage" cols="30" rows="5" formControlName="Message"
+        oninput="this.value = this.value.toUpperCase()">
+        </textarea>
+    </div>
+    <div class="nes-container with-title">
+      <p class="title">Morse code</p>
+      <textarea class="nes-textarea" name="txtMorseCode" id="txtMorseCode" cols="30" rows="5" formControlName="Code"
+        (keypress)="isMorseCode($event)"></textarea>
+    </div>
+  </div>
+  <div class="buttons">
+    <button type="button" class="nes-btn" (click)="translate()">Translate</button>
+    <button type="button" class="nes-btn" (click)="listenCode()">Listen code</button>
+    <button type="button" class="nes-btn" (click)="clean()">Clean</button>
+  </div>
+</form>
