@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormBuilder } from '@angular/forms';
-import { stringify } from 'querystring';
 import { MorseCodeService } from '../morse-code.service';
 
 @Component({
@@ -52,5 +51,9 @@ export class TranslatorComponent implements OnInit {
     return event.key === "." || event.key === "-" || event.key === " "
   }
 
-  $scope
+  isValidCharacter(event):boolean{
+    const regex = /([A-Za-z0-9])/g;
+
+    return regex.test(event.key);
+  }
 }

@@ -3,7 +3,7 @@
     <div class="nes-container with-title">
       <p class="title">Message</p>
       <textarea class="nes-textarea" name="txtMessage" id="txtMessage" cols="30" rows="5" formControlName="Message"
-        oninput="this.value = this.value.toUpperCase()">
+        oninput="this.value = this.value.toUpperCase()" (keypress)="isValidCharacter($event)">
         </textarea>
     </div>
     <div class="nes-container with-title">
