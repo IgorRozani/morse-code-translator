@@ -14,7 +14,8 @@
   </div>
   <div class="buttons">
     <button type="button" class="nes-btn" (click)="translate()">Translate</button>
-    <button type="button" class="nes-btn" (click)="listenCode()">Listen code</button>
+    <button type="button" [disabled]="!form.value.Code" [ngClass]="{ 'is-disabled': !form.value.Code }" class="nes-btn"
+      (click)="listenCode()" disabled>Listen code</button>
     <button type="button" class="nes-btn" (click)="clean()">Clean</button>
   </div>
 </form>
