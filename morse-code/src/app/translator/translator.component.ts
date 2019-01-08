@@ -52,7 +52,7 @@ export class TranslatorComponent implements OnInit {
   }
 
   isValidCharacter(event):boolean{
-    const regex = /([A-Za-z0-9])/g;
+    const regex = /([A-Za-z0-9.,?'!/()&:;=-_"$@])/g;
 
     return regex.test(event.key);
   }

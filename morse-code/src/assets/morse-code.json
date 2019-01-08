@@ -143,5 +143,73 @@
     {
         "character": "9",
         "morse": "----."
+    },
+    {
+        "character": ".",
+        "morse": "·-·-·-"
+    },
+    {
+        "character": ",",
+        "morse": "--··--"
+    },
+    {
+        "character": "?",
+        "morse": "··--··"
+    },
+    {
+        "character": "'",
+        "morse": "·----·"
+    },
+    {
+        "character": "!",
+        "morse": "-·-·--"
+    },
+    {
+        "character": "/",
+        "morse": "-··-·"
+    },
+    {
+        "character": "(",
+        "morse": "-·--·"
+    },
+    {
+        "character": ")",
+        "morse": "-·--·-"
+    },
+    {
+        "character": "&",
+        "morse": "·-···"
+    },
+    {
+        "character": ":",
+        "morse": "---···"
+    },
+    {
+        "character": ";",
+        "morse": "-·-·-·"
+    },
+    {
+        "character": "=",
+        "morse": "-···-"
+    },
+    {
+        "character": "-",
+        "morse": "-····-"
+    },
+    {
+        "character": "_",
+        "morse": "··--·-"
+    },
+    {
+        "character": "\"",
+        "morse": "·-··-·"
+    },
+    {
+        "character": "$",
+        "morse": "···-··-"
+    },
+    {
+        "character": "@",
+        "morse": "·--·-·"
     }
 ]
