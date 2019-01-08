@@ -40,9 +40,6 @@ export class TranslatorComponent implements OnInit {
     }
   }
 
-  listenCode(): void {
-  }
-
   clean(): void {
     this.form.reset();
   }
