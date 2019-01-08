@@ -73,3 +73,7 @@ The translator uses the international morse code (ITU), as showed in the table.
 |"|·-··-·|
 |$|···-··-|
 |@|·--·-·|
+
+## Layout
+
+This project uses the [NES.css](https://nostalgic-css.github.io/NES.css/) as CSS framework.
